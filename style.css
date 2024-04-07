@@ -1,0 +1,11 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+  color: white;
+  padding-left: 70px !important;
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 30px !important;
+  font-weight: 900 !important;
+}
+
